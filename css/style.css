@@ -1,6 +1,6 @@
 body{
-    height: 90vh;
-    background: url('../img/ocean.webp') 55% / cover;
+    width: 100%;
+    background: url('../img/ocean.webp') 55% / cover no-repeat;
     background-color:rgb(58, 58, 238);
     
 }
@@ -52,5 +52,5 @@ footer p{
     color: #fff;
 }
 @media only screen and (min-width: 768px){
-    
+   
 }
