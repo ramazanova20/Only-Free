@@ -1,6 +1,6 @@
 body{
     height: 110vh;
-    background-image: url('img/ocean.jpeg');
+    background-image: url('img/ocean1.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -17,6 +17,7 @@ body{
 #menu li{
     display: inline;
     margin: 30px;
+    color: #00FFFF;
 }
 #menu i{
     margin: 5px;
