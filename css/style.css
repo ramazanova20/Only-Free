@@ -1,9 +1,6 @@
 body{
     height: 90vh;
-    background-image: url('../img/ocean.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background: url('../img/ocean.webp') 55% / cover;
     background-color:rgb(58, 58, 238);
     
 }
